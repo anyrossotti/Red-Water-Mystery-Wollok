@@ -4,6 +4,8 @@
 
 **🏅 Proyecto Distinguido y Seleccionado: Concurso Wollok Game**
 
+Proyecto académico desarrollado en el marco de la materia Programación Orientada a Objetos, seleccionado para concurso interno.
+
 [![Ver en Wollok.org](https://img.shields.io/badge/Ver_en_Sitio_Oficial-Wollok-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.wollok.org/news/concurso2025/)
 
 *(Implementación avanzada de Programación Orientada a Objetos, Herencia y Polimorfismo)*
